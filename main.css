@@ -1,0 +1,21 @@
+div {
+	height: 100px;
+	margin: auto;
+}
+body {
+	background-color:lightblue;
+}
+h1{
+	font-family: Arial;
+	font-size: 50px;
+}
+section{
+	padding: 10px 10px;
+	display:flex;
+	flex-direction: row;
+	background-color: yellow;
+}
+
+.title {
+	width: fit-content;
+}
